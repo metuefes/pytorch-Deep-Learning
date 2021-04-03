@@ -1,4 +1,4 @@
-## This notebook repository is forked for coding exercises for deep learning. For original unsolved version please visit the original github repo.
+## This notebook repository is forked for coding exercises for deep learning. Please visit the original github repo for original unsolved version .
 
 # Deep Learning (with PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
 
